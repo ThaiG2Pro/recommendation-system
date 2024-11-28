@@ -1,0 +1,16 @@
+# Ignore data and model files
+data/raw/
+data/processed/
+models/
+
+# Python cache
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# System files
+.DS_Store
